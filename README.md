@@ -19,5 +19,6 @@ Welcome to my Github Profile!
 - SVM Geometric Interpretation :  [SVM](https://medium.com/@Ashutosh_Upadhyay/simple-geometric-interpretation-of-svm-using-convex-hull-ad876f6ea15e)
 - Need of Featurization : [Featurization](https://medium.com/@Ashutosh_Upadhyay/need-for-featurization-in-nlp-text2vector-conversion-in-machine-learning-cbbd89f85554)
 
+### 📮 Get In Touch!
 - 📫 How to reach me: Medium : [Ashutosh_Upadhyay](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com 
 
