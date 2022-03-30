@@ -15,5 +15,9 @@ Welcome to my Github Profile!
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=AshutoshUpadhyayGit&show_icons=true)
 
-- 📫 How to reach me [Medium:](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Ashutosh_Upadhyay/0">
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Ashutosh_Upadhyay/1">
+
+- 📫 How to reach me [Ashutosh_Upadhyay](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com
 
