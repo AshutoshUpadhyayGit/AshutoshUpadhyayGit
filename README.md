@@ -22,3 +22,6 @@ Welcome to my Github Profile!
 ### 📮 Get In Touch!
 - 📫 How to reach me: Medium : [Ashutosh_Upadhyay](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com 
 
+### 🧙‍♂️ Just my favourite quote
+- Life is like a box of chocolates. You never know what you’re gonna get.
+~ Forrest – Forrest Gump
