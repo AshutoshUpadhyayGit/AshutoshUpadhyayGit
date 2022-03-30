@@ -15,9 +15,9 @@ Welcome to my Github Profile!
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=AshutoshUpadhyayGit&show_icons=true)
 
-### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Ashutosh_Upadhyay/0">
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Ashutosh_Upadhyay/1">
+### 📝 My few Blog Post in Medium
+- SVM Geometric Interpretation :  [SVM](https://medium.com/@Ashutosh_Upadhyay/simple-geometric-interpretation-of-svm-using-convex-hull-ad876f6ea15e)
+- Need of Featurization : [Featurization](https://medium.com/@Ashutosh_Upadhyay/need-for-featurization-in-nlp-text2vector-conversion-in-machine-learning-cbbd89f85554)
 
-- 📫 How to reach me [Ashutosh_Upadhyay](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com
+- 📫 How to reach me: Medium : [Ashutosh_Upadhyay](https://medium.com/@Ashutosh_Upadhyay) or Gmail : ashupadhyay99@gmail.com 
 
